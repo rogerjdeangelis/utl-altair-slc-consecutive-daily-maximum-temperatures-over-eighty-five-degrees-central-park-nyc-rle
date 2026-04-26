@@ -4,6 +4,10 @@
 
 Altair slc consecutive daily maximum temperatures over eighty five degrees central park nyc rle
 
+too long to post on list,see github
+[GITHUB] (https://github.com/rogerjdeangelis/utl-altair-slc-consecutive-daily-maximum-temperatures-over-eighty-five-degrees-central-park-nyc-rle)
+https://github.com/rogerjdeangelis/utl-altair-slc-consecutive-daily-maximum-temperatures-over-eighty-five-degrees-central-park-nyc-rle
+
 CONTENTS
 
  1 download NOAA csv
@@ -12,10 +16,12 @@ CONTENTS
  4 runs plots
 
 Climate data source
+[NOAA](https://www.ncei.noaa.gov/cdo-web/)
 https://www.ncei.noaa.gov/cdo-web/
 
 Daily Temperature data
-https://raw.githubusercontent.com/rogerjdeangelis/utl-altair-slc-climate-change-using-daily-max-air-temperature-from-l875-to-present/refs/heads/main/centralpark.csv
+[LOCAL CSV](https://raw.githubusercontent.com/rogerjdeangelis/utl-altair-slc-consecutive-daily-maximum-temperatures-over-eighty-five-degrees-central-park-nyc-rle/refs/heads/main/centralpark.csv)
+https://raw.githubusercontent.com/rogerjdeangelis/utl-altair-slc-consecutive-daily-maximum-temperatures-over-eighty-five-degrees-central-park-nyc-rle/refs/heads/main/centralpark.csv
 
 PROBLEM CREATE THIS OUTPUT
 
@@ -1007,3 +1013,4 @@ options ls=255 ps=255;
  \___|_| |_|\__,_|
 
 */
+
